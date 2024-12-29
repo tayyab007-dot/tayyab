@@ -1,2 +1,3 @@
 # tayyab
-That's my first repository
+That's my first repository.
+Aurther: Tayyab
